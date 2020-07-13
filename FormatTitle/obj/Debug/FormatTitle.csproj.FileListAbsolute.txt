@@ -1,0 +1,5 @@
+/Users/matthewgilligan/Projects/FormatTitle/FormatTitle/bin/Debug/FormatTitle.exe
+/Users/matthewgilligan/Projects/FormatTitle/FormatTitle/bin/Debug/FormatTitle.pdb
+/Users/matthewgilligan/Projects/FormatTitle/FormatTitle/obj/Debug/FormatTitle.csprojAssemblyReference.cache
+/Users/matthewgilligan/Projects/FormatTitle/FormatTitle/obj/Debug/FormatTitle.exe
+/Users/matthewgilligan/Projects/FormatTitle/FormatTitle/obj/Debug/FormatTitle.pdb
